@@ -9,10 +9,13 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
     
-      <p>Myshop OS</p>
+     
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
+    
+        <p>Myshop OS</p>
+    
+        <h1 className={styles.title}> 
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
